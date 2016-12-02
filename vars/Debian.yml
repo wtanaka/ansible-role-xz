@@ -1,2 +1,3 @@
 ---
-package_name: xz-utils
+package_names:
+- xz-utils

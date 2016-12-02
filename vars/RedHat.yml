@@ -1,2 +1,3 @@
 ---
-package_name: xz
+package_names:
+- xz
