@@ -13,6 +13,17 @@ Example Playbook
       roles:
          - wtanaka.xz
 
+### `xz_should_shortcircuit`
+
+Default: True
+
+when True, the role short-circuits itself if xz is already installed
+
+### All variables
+
+The full set of configuration options available are visible in
+[defaults/main.yml](defaults/main.yml)
+
 License
 -------
 
